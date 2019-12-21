@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Przesylacz</string>
+    <string name="send">Wyślij</string>
+    <string name="welcomeMessage">Ot co żeś natworzył...</string>
+</resources>
